@@ -1,4 +1,4 @@
-# HealthAI — AI-Powered Disease Prediction Platform
+# Health_Disease_Prediction — AI-Powered Disease Prediction Platform
 
 HealthAI is a machine-learning-based web application that integrates five disease prediction models into a unified Streamlit interface. Users can enter health-related information, generate model predictions, review previous predictions, and explore prediction analytics.
 
